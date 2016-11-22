@@ -3,7 +3,10 @@
   lifePoint: "50000",
   regenPerSec: "100",
   owner: "Empire",
+  effectiveness: "300",
+  color: "Reddish",
+  status: "Destroyed",
   color: "Reddish",
   test: "yosi test",
-  type: fire
+  type: "fire"
 }
