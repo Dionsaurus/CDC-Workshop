@@ -3,5 +3,10 @@
   lifePoint: "50000",
   regenPerSec: "100",
   owner: "Empire",
+<<<<<<< HEAD
   modified: Yes
+=======
+  color: "Reddish"
+  type: fire
+>>>>>>> d96fed415d8815578a4e6ae1653f9167381cf542
 }
