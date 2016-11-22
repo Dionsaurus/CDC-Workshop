@@ -3,9 +3,7 @@
   lifePoint: "50000",
   regenPerSec: "100",
   owner: "Empire",
-<<<<<<< HEAD
-  effectiveness: "300"
-=======
-  color: "Reddish"
->>>>>>> 5cbbffe2a798b7122cf9ea815d2fb63c4e3fed65
+  effectiveness: "300",
+  color: "Reddish",
+  status: "Destroyed"
 }
