@@ -4,4 +4,7 @@
   regenPerSec: "100",
   owner: "Empire",
   add: "note"
+  color: "Reddish",
+  test: "yosi test",
+  type: fire
 }
