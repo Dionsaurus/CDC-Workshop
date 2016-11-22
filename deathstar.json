@@ -2,6 +2,9 @@
   attack: "100000",
   lifePoint: "50000",
   regenPerSec: "100",
-  owner: "Empire"
+  owner: "Empire",
+  color: "Reddish",
+  test: "yosi test",
+  type: fire
   wuzzup: "Doc"
 }
