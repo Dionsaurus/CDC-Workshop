@@ -5,5 +5,8 @@
   owner: "Empire",
   effectiveness: "300",
   color: "Reddish",
-  status: "Destroyed"
+  status: "Destroyed",
+  color: "Reddish",
+  test: "yosi test",
+  type: "fire"
 }
