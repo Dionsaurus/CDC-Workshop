@@ -4,5 +4,7 @@
   regenPerSec: "100",
   owner: "Empire",
   test: "9999"
+  effectiveness: "300",
+  color: "Reddish",
   status: "Destroyed"
 }
