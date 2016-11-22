@@ -1,6 +1,9 @@
 {
   attack: "100000",
-  lifePoints: "50000",
+  lifePoint: "50000",
   regenPerSec: "100",
-  owner: "Empires"
+  owner: "Empire",
+  color: "Reddish",
+  test: "yosi test",
+  type: fire
 }
