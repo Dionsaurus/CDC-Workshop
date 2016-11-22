@@ -3,5 +3,6 @@
   lifePoint: "50000",
   regenPerSec: "100",
   owner: "Empire",
-  edit: "Yes"
+  edit: "Yes",
+  color: "Reddish"
 }
