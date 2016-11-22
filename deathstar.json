@@ -4,5 +4,6 @@
   regenPerSec: "100",
   owner: "Empire",
   edit: "Yes",
+  add: "Yes",
   color: "Reddish"
 }
